@@ -20,7 +20,7 @@ import static org.mockito.Mockito.when;
 
 //Kredi basvurusu için hazırlanan bir test sınıfı
 @SpringBootTest
-class KrediBasvuruApplicationTests {
+class CreditAppApplicationTests {
 
 	@Mock
 	private CreditScoreRepository creditScoreRepository;
